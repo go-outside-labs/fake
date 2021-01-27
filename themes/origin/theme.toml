@@ -1,0 +1,5 @@
+name = "Origin"
+tags = ["blog", "responsive", "light", "simple"]
+features = ["pagination", "single-column", "syntax-highlighting"]
+min_version = "0.60.0"
+

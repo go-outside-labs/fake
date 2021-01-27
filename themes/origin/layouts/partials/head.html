@@ -1,0 +1,25 @@
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+
+    <meta property="og:title" content="{{ if not .IsHome }}{{with .Title }}{{ . }}{{ end }}{{else}}{{ .Site.Title }}{{end}}" />
+    <meta property="og:description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{.Page.Permalink}}" />
+    <meta itemprop="name" content="{{ if not .IsHome }}{{with .Title }}{{ . }}{{ end }}{{else}}{{ .Site.Title }}{{end}}">
+    <meta itemprop="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{.Description}}{{end}}">
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="{{ if not .IsHome }}{{with .Title }}{{ . }}{{ end }}{{else}}{{ .Site.Title }}{{end}}"/>
+    <meta name="twitter:description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{.Description}}{{end}}"/>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+
+    {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{$style.Permalink}}" >
+    
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c9f5d3ad453f850f529935ffd/606b73d349055396d876fb156.js");</script>
+</head>

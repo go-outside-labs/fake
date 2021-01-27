@@ -1,0 +1,21 @@
+<article class="post-item">
+        <div class="post-item-flex">
+            <a class="{{if not (isset .Params "tags")}}no-tag{{end}} post-item__meta post-item--left" href="{{.Permalink}}">
+            <h2 class="post-item__title">{{.Title}}</h2>
+            <time class="post-item__date" datetime="{{.Date.Format "2006-01-02"}}">{{.Date.Format "2006-01-02"}}</time>
+        {{if isset .Params "description"}}
+            <div class="post-item__description">{{.Description}}</div>
+        {{end}}
+        </a>
+        {{if isset .Params "image"}}
+        <a class="post-item--right post-item__image" href="{{.Permalink}}">
+            <img src="{{printf "%s%s" .File.Dir .Params.image | absURL}}" alt="{{.Title}}" />
+        </a>
+        {{end}}
+        {{if isset .Params "tags"}}
+            <a href="{{.Site.BaseURL}}/tags/{{index .Params.tags 0 | urlize}}" class="post-item__tag">
+            {{index .Params.tags 0}}
+        </a>
+        {{end}}
+    </div>
+</article>

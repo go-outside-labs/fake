@@ -1,0 +1,38 @@
+.p {
+  &y--sm{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  &x--sm {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  &y--md{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  &x--md {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  &--sm {
+    padding: 1rem;   
+  }
+  &--md {
+    padding: 2rem;   
+  }
+  &l-sm {
+    padding-left: 1rem;
+  }
+}
+.m {
+  &b-sm {
+    margin-bottom: 1rem;
+  }
+  &b-xs {
+    margin-bottom: 0.5rem;
+  }
+  &b-0 {
+    margin-bottom : 0;
+  }
+}

@@ -1,0 +1,42 @@
+{{define "header"}}
+    {{partial "header.html" .}}
+{{end}}
+
+{{define "main"}}
+
+{{ $paginator := .Paginator }}
+{{ if  .Site.Params.featured }}
+{{ if eq $paginator.PageNumber 1 }}
+<div class="featured-posts">
+    {{ $pages := .Site.RegularPages }}
+    {{range first 3 $pages}}
+        {{ partial "featured" . }}
+    {{end}}
+</div>
+{{end}}
+<div class="post-list">
+    {{if eq $paginator.PageNumber 1}}
+        {{ range after 3 $paginator.Pages }}
+            {{ .Render "li" }}
+        {{ end }}
+    {{else}}
+        {{ range $paginator.Pages }}
+            {{ .Render "li" }}
+        {{ end }}
+    {{end}}
+
+</div>
+{{ partial "pagination" . }}
+
+{{else}}
+<div class="post-list">
+    {{ range $paginator.Pages }}
+        {{ .Render "li" }}
+    {{ end }}
+</div>
+{{ partial "pagination" . }}
+{{end}}
+{{end}}
+{{define "footer"}}
+    {{partial "footer" .}}
+{{end}}
