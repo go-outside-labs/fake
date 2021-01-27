@@ -11,7 +11,7 @@ footnoteReturnLinkContents = "^"
 theme = "origin"
 
 [params]
-  favicon = "/img/favicon.ico"
+  favicon = "img/favicon.ico"
   description = "all that inexorable cypherpunk stuff..."
   featured = true
   cssonly = false
