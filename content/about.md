@@ -5,13 +5,15 @@ aliases = ["about", "contact"]
 author = "bt3"
 +++
 
-## **dreamers.cash** is a "free as free beer" project by bt3
+## **dreamers.cash** is a "free as free beer" project by bt3.
 
 ---
 
 ### Donations:
+
 * **bitcoin:** 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
 * **ethereum:** 0x3f083E5671049e182be2332EDA43b9E6681EAf02
+
 
 ----
 
