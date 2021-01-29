@@ -1,6 +1,6 @@
 +++
 title = "the revolution will be decentralized"
-date = "2021-01-29"
+date = "2021-01-28"
 +++
 
 <center>
