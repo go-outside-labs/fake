@@ -27,14 +27,29 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 ### Dialects and concepts
 
 * **HODL**: holding the cryptocurrency rather than selling.
+* **Stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
+* **Sats**: short for satoshis, the smallest unit of bitcoin (BTC).
+* **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have. The advice is take a deep breath and HODL.
+* **mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
 
 
 ---
 ## 1. Nerding out
 
+### Create your own node
+
+
+###
 
 ---
 ## 10. Becoming a cypherpunk
+
+### Write code
+
+* [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues)
+* [browse bitcoin projects](http://www.bitcoinprojects.net/)
+
+### Understand mining
 
 
 
@@ -50,3 +65,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 ```
 
 ---
+
+## Stacking references
+
+* [weusecoins.com/](https://www.weusecoins.com/)
