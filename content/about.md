@@ -34,12 +34,9 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 
 ---
-## 1. Nerding out
-
-### Create your own node
+## 1. Why cryptocurrencies are going to guide the revolution
 
 
-###
 
 ---
 ## 10. Becoming a cypherpunk
@@ -48,6 +45,8 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 * [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues)
 * [browse bitcoin projects](http://www.bitcoinprojects.net/)
+
+### Create your own node
 
 ### Understand mining
 
