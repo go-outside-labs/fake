@@ -39,7 +39,10 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 
 ---
-This week we are at:
+
+## 101. Rotating your wallet address
+
+Donation are the tip of free work. This week we are at:
 
 ```
 bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
