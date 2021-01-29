@@ -26,14 +26,16 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 ### Dialects and concepts
 
-* **HODL**: holding the cryptocurrency rather than selling.
+* **Altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin). 
 * **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have. The advice is *take a deep breath and HODL*.
 * **Faketoshi**: everyone claiming they are Satoshi Nakamoto.
+* **HODL**: holding the cryptocurrency rather than selling.
+* **NYKNYB**: Not your keys? Not your Bitcoins . The advice is *set your own wallet*.
 * **Mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
 * **Stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
 * **Sats**: short for satoshis, the smallest unit of bitcoin (BTC).
 * **Shitcoins**:  an altcoin that isn't worth anything atm.
-* **NYKNYB**: Not your keys? Not your Bitcoins . The advice is *set your own wallet*.
+
 
 ---
 ## 1. Why cryptocurrencies are going to guide the revolution
