@@ -10,7 +10,7 @@ author = "bt3"
 <img src="/img/pc.png" alt="quantum computer"  width="400"/>
 
 <h1>
-<b>g<a href="https://keybase.io/bt3gl">dreamers.cash is a "free as free beer" project by bt3</a></b>
+<a href="https://keybase.io/bt3gl">dreamers.cash is a "free as free beer" project by bt3</a></b>
 </h1>
 
 </center>
