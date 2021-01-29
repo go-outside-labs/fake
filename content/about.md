@@ -1,8 +1,6 @@
 +++
 title = "the revolution will be decentralized"
-date = "2021-01-21"
-aliases = ["about", "contact"]
-author = "bt3"
+date = "2021-01-29"
 +++
 
 <center>
