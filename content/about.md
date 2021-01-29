@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "the revolution will be decentralized"
 date = "2021-01-21"
 aliases = ["about", "contact"]
 author = "bt3"
@@ -10,7 +10,7 @@ author = "bt3"
 <img src="/img/pc.png" alt="quantum computer"  width="300"/>
 
 
-dreamers.cash is a "free as free beer" project to help the revolution. the revolution will be decentralized. by <a href="https://keybase.io/bt3gl">bt3</a></b>
+dreamers.cash is a "free as free beer" project to help the revolution, by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 
 
