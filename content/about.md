@@ -16,17 +16,26 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 
 
+---
+# 0. Basics you need to know
 
-## 0. Basics you need to know
+## How to spend coins? (but you should HODL tho)
+* [Buy 🍕 and other foods with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
+* [Stores that accept bitcoin: spendabit.co](https://spendabit.co/)
+* [Crypto merchants and ATMs](https://coinmap.org/)
 
-* [Who accepts Bitcoin in 2021? Order 🍕 with your coins and all that](https://bitcoinwide.com/)
+## Dialects and concepts
 
-
-## 1. Nerding out
+* **HODL**: holding the cryptocurrency rather than selling.
 
 
 ---
-## 10. Becoming a cypherpunk
+# 1. Nerding out
+
+
+---
+# 10. Becoming a cypherpunk
+
 
 
 ---
