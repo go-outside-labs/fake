@@ -7,13 +7,11 @@ author = "bt3"
 
 <center>
 
-<img src="/img/pc.png" alt="quantum computer"  width="400"/>
+<img src="/img/pc.png" alt="quantum computer"  width="300"/>
 
-<h1>
-<a href="https://keybase.io/bt3gl">dreamers.cash is a "free as free beer" project to help the revolution. the revolution will be decentralized. by bt3</a></b>
-</h1>
 
-</center>
+dreamers.cash is a "free as free beer" project to help the revolution. the revolution will be decentralized. by <a href="https://keybase.io/bt3gl">bt3</a></b>
+
 
 
 ---
