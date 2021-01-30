@@ -123,8 +123,10 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### obvious channels you should join
 
+
+- **[t/samourai wallet](https://t.me/SamouraiWallet)**.
+- **[t/bitcoin](https://t.me/Bitcoin)**.
 - **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
-- **[telegram: samourai wallet](https://t.me/SamouraiWallet)**.
 
 ---
 
