@@ -26,6 +26,8 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * the first successful implementation of a distributed crypto-currency, described in part in 1998 by Wei Dai on the cypherpunks mailing list.
 * designed around the idea of using cryptography to control the creation and transfer of money, rather than relying on central authorities.
 * a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased and only 21 million bitcoins will ever exist.
+* open-source: nobody owns or control it and everyone can take part.
+* the biggest revolution on money in the last thousands of year.
 
 
 ### how to spend coins?
@@ -35,7 +37,6 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * [crypto merchants and ATMs](https://coinmap.org/).
 * [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
 
-- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
 ### dialects and concepts
 
@@ -100,7 +101,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 - **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
 - **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**
-
+- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
 ---
 ## 100. becoming a cypherpunk
