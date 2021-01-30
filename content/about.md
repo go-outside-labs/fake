@@ -25,8 +25,8 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 * the first successful implementation of a distributed crypto-currency, described in part in 1998 by Wei Dai on the cypherpunks mailing list.
 * designed around the idea of using cryptography to control the creation and transfer of money, rather than relying on central authorities.
-* a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased and only 21 million bitcoins will ever exist.
-* open-source: nobody owns or control it and everyone can take part.
+* a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased, and only 21 million bitcoins will ever exist.
+* open-source: nobody owns or controls it, and everyone can take part.
 * the biggest revolution on money in the last thousands of year.
 
 ### dialects and concepts
@@ -66,9 +66,9 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from big corps:
     * robinhood is a NO NO. Do not leave your coins there. No option to withdraw to your wallet.
-    * coinbase give you lower fees when paying for pro. You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
+    * coinbase gives you lower fees when paying for pro. You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
     * gemini and binance.us are all right in the US, kraken is all right in Europe. Withdraw to your wallet.
-    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying, step 2 is withdrawal to your wallet.
+    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
 ### how to spend coins?
 
