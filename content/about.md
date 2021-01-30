@@ -45,7 +45,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * **shitcoins**:  an altcoin that isn't worth anything atm.
 * **💎 hands**:  HODL.
 
-### bitcoins + alcoins + shitcoins
+### bitcoins + altcoins + shitcoins
 
 - **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
 - **[CHECK MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**
