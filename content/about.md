@@ -21,6 +21,11 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 All right, losers, these are all the stuff you will have to learn if you desire to live in the future.
 
+### what bitcoin is
+
+* the first successful implementation of a distributed crypto-currency, described in part in 1998 by Wei Dai on the cypherpunks mailing list.
+* designed around the idea of using cryptography to control the creation and transfer of money, rather than relying on central authorities.
+* a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased and only 21 million bitcoins will ever exist.
 
 
 ### how to spend coins?
