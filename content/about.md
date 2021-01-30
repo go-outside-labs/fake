@@ -19,7 +19,11 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 ---
 ## 0. basics you need to know
 
-All right, losers, these are all the stuff you are going to have to learn if you desire to leave in the future.
+All right, losers, these are all the stuff you will have to learn if you desire to live in the future.
+
+### History of cryptocurrencies
+
+- **[CHECK MY ARTICLES ON ALL THE SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
 ### how to spend coins? 
 * [buy 🍕 and fuds with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
@@ -39,10 +43,14 @@ All right, losers, these are all the stuff you are going to have to learn if you
 * **shitcoins**:  an altcoin that isn't worth anything atm.
 * **💎 hands**:  HODL.
 
+### bitcoins + alcoins + shitcoins
+
+- **[CHECK MY ARTICLES ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
+
 ---
 ## 1. creating your wallet
 
-**[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
+- **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 ### software wallets
 
 
