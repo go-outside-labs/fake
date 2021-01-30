@@ -58,10 +58,12 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### history of cryptocurrencies
 
-- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
+- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**
 
 
 ### how to buy coins?
+
+- **[CHECK MY REVIEW ON BISQ AND HOW TO BUY CRYPTO THE RIGHT WAY](https://dreamers.cash/post/2/)**
 
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from big corps:
