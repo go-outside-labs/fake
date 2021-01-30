@@ -70,7 +70,8 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ---
 ## 1. creating your wallet
 
-- **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
+- TL;DR use [samourai wallet](https://samouraiwallet.com/).
+- **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 
 ### software wallets
 
