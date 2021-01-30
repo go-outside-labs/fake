@@ -19,7 +19,7 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 ---
 ## 0. basics you need to know
 
-### how to spend coins? (but you should HODL tho)
+### how to spend coins? 
 * [buy 🍕 and fuds with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
 * [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
 * [crypto merchants and ATMs](https://coinmap.org/)
@@ -29,32 +29,32 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
 * **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
-* **hODL**: holding the cryptocurrency rather than selling.
+* **HODL**: holding the cryptocurrency rather than selling.
 * **NYKNYB**: not your keys? not your bitcoins ("set your own wallet").
-* **Mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
-* **Stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
-* **Sats**: short for satoshis, the smallest unit of bitcoin (BTC).
-* **Shitcoins**:  an altcoin that isn't worth anything atm.
+* **mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
+* **stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
+* **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
+* **shitcoins**:  an altcoin that isn't worth anything atm.
 
 ---
 ## 1. creating your wallet
 
 **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/wallets/)**
-### Software wallets
+### software wallets
 
 
 ### hardware wallets
 
-* [Ledger](https://shop.ledger.com).
-* [Trezor](https://trezor.io/).
-* [Shapeshift](https://shapeshift.com/keepkey).
+* [ledger](https://shop.ledger.com).
+* [trezor](https://trezor.io/).
+* [shapeshift](https://shapeshift.com/keepkey).
 
 ---
 ## 10. buying crypto coins
 
 ### find an exchange
 
-* [List of cheapest exchanges](https://cryptorationale.com/).
+* [list of cheapest exchanges](https://cryptorationale.com/).
 
 ### transfer the coins to your wallet
 
@@ -82,7 +82,8 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 ## 101. rotating your wallet address
 
-Donation are the token of appreciation for volunteer work. This week we are at:
+donations are the token of appreciation for volunteer work 🖤. 
+this week we are at:
 
 ```
 bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
