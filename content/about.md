@@ -34,10 +34,11 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
 * **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
+* **get GOAXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
 * **HODL**: holding the cryptocurrency rather than selling.
-* **KYC coin**: "know your customer", all these platforms that ask for selfies and verification. You need to own your wallet
+* **KYC coin**: "know your customer", all these platforms that ask for selfies and verification; you need to own your wallet.
 * **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
-* **NYKNYB**: not your keys? not your bitcoins ("set your own wallet").
+* **NYKNYB**: not your keys? not your bitcoins; you need to own your wallet.
 * **stacking sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
 * **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
 * **shitcoins**: an altcoin that isn't worth anything atm.
