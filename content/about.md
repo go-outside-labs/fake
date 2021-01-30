@@ -61,23 +61,6 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 - **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**
 
 
-### how to buy coins?
-
-* consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
-* if buying from third parties:
-    * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
-    * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
-    * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
-    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
-
-- **[CHECK MY REVIEW ON BISQ AND HOW TO BUY CRYPTO THE RIGHT WAY](https://dreamers.cash/post/2/)**
-
-### how to spend coins?
-
-* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
-* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
-* [crypto merchants and ATMs](https://coinmap.org/).
-* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
 
 
 ---
@@ -105,24 +88,36 @@ Start with them and then move to a hardware wallet:
 - **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**
 
 ---
-## 10. buying crypto coins
+## 10. buying coins
 
-### find an exchange
 
-* [list of cheapest exchanges](https://cryptorationale.com/).
-
-### transfer the coins to your wallet
+* consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
+* if buying from third parties:
+    * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
+    * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
+    * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
+    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
 ----
 
-## 11. why cryptocurrencies are going to guide the revolution
+## 11. spending coins
+
+* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
+* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
+* [crypto merchants and ATMs](https://coinmap.org/).
+* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
+
+
+---
+
+## 100. why cryptocurrencies are going to guide the revolution
 
 - **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
 - **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**
 - **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
 ---
-## 100. becoming a cypherpunk
+## 101. becoming a cypherpunk
 
 ### write code
 
@@ -146,9 +141,10 @@ Start with them and then move to a hardware wallet:
 - **[t/bitcoin](https://t.me/Bitcoin)**.
 - **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
 
+
 ---
 
-## 101. rotating your wallet address
+## 110. rotating your wallet address
 
 ### donations
 donations are the token of appreciation for volunteer work 🖤.
@@ -159,9 +155,10 @@ bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
 ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 ```
 
+
 ---
 
-## 110. stacking references
+## 111. stacking references
 
 (all the links that didn't make it to the previous sections)
 
