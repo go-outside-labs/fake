@@ -30,7 +30,6 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * the biggest revolution on money in the last thousands of year.
 
 
-
 ### bitcoins + altcoins + shitcoins
 
 - **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
@@ -161,8 +160,10 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 (all the links that didn't make it to the previous sections)
 
-### general stuff
+### general refs
 
+* [bitcoin.org](https://bitcoin.org/).
+* [james lopp](https://www.lopp.net/bitcoin-information.html).
 * [weusecoins.com](https://www.weusecoins.com/).
 
 
