@@ -114,12 +114,17 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### create your own node
 
-- **[CHECK MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**
+- **[CHECK MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
 
 ### understand mining
 
-- **[CHECK MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**
+- **[CHECK MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
 
+
+### obvious channels you should join
+
+- **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
+- **[telegram: samourai wallet](https://t.me/SamouraiWallet)**.
 
 ---
 
