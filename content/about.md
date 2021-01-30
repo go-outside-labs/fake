@@ -35,6 +35,7 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 * **stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
 * **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
 * **shitcoins**:  an altcoin that isn't worth anything atm.
+* **💎 hands**:  HODL.
 
 ---
 ## 1. creating your wallet
