@@ -83,7 +83,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ---
 ## 1. creating your wallet
 
-- TL;DR use [samourai wallet](https://samouraiwallet.com/).
+- TL;DR you could start with [samourai wallet](https://samouraiwallet.com/) or [electrum](https://electrum.org/#home) and the move to a hardware wallet.
 - **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 
 ### software wallets
