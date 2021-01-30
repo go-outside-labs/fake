@@ -19,7 +19,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ---
 ## 0. basics you need to know
 
-**✨ these are some stuff that will help you navigate the years to come ✨**
+**✨ here are some stuff that will help you navigate the years to come ✨**
 
 ### what bitcoin is
 
@@ -164,6 +164,8 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 * [bitcoin.org](https://bitcoin.org/).
 * [james lopp](https://www.lopp.net/bitcoin-information.html).
+* [what bitcoin did](https://www.whatbitcoindid.com/resources.)
+* [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 
 
