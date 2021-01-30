@@ -19,6 +19,8 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 ---
 ## 0. basics you need to know
 
+All right, losers, these are all the stuff you are going to have to learn if you desire to leave in the future.
+
 ### how to spend coins? 
 * [buy 🍕 and fuds with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
 * [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
