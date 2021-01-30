@@ -27,9 +27,10 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### how to spend coins?
 
-* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
-* [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
-* [crypto merchants and ATMs](https://coinmap.org/)
+* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
+* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
+* [crypto merchants and ATMs](https://coinmap.org/).
+* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
 
 - **[CHECK MY ARTICLES ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
