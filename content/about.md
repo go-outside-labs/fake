@@ -21,9 +21,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 All right, losers, these are all the stuff you will have to learn if you desire to live in the future.
 
-### history of cryptocurrencies
 
-- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
 ### how to spend coins?
 
@@ -58,6 +56,10 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 - **[CHECK MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**
 - **[CHECK MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**
 
+
+### history of cryptocurrencies
+
+- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
 
 ---
