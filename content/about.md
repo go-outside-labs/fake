@@ -23,7 +23,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### history of cryptocurrencies
 
-- **[CHECK MY ARTICLES ON ALL THE SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
+- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
 ### how to spend coins?
 
@@ -32,7 +32,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * [crypto merchants and ATMs](https://coinmap.org/).
 * [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
 
-- **[CHECK MY ARTICLES ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
+- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
 ### dialects and concepts
 
@@ -49,14 +49,14 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### bitcoins + alcoins + shitcoins
 
-- **[CHECK MY ARTICLES ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
-- **[CHECK MY ARTICLES ON BITCOIN CASH](https://dreamers.cash/post/6/)**
-- **[CHECK MY ARTICLES ON ETHEREUM](https://dreamers.cash/post/5/)**
+- **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
+- **[CHECK MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**
+- **[CHECK MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**
 
 ### what's the blockchain
 
-- **[CHECK MY ARTICLES ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**
-- **[CHECK MY ARTICLES ON SMART CONTRACTS](https://dreamers.cash/post/9/)**
+- **[CHECK MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**
+- **[CHECK MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**
 
 
 
@@ -76,7 +76,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### everything privacy
 
-- **[CHECK MY ARTICLES ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**
+- **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**
 
 ---
 ## 10. buying crypto coins
@@ -91,8 +91,8 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ## 11. why cryptocurrencies are going to guide the revolution
 
-- **[CHECK MY ARTICLES ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
-- **[CHECK MY ARTICLES ON NFTS](https://dreamers.cash/post/7/)**
+- **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
+- **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**
 
 
 ---
@@ -106,11 +106,11 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### create your own node
 
-- **[CHECK MY ARTICLES ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**
+- **[CHECK MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**
 
 ### understand mining
 
-- **[CHECK MY ARTICLES ON MINING](https://dreamers.cash/post/10/)**
+- **[CHECK MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**
 
 
 ---
