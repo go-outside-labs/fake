@@ -69,8 +69,8 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 ### write code
 
-* [Work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues)
-* [browse bitcoin projects](http://www.bitcoinprojects.net/)
+* [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues).
+* [browse bitcoin projects](http://www.bitcoinprojects.net/).
 
 ### create your own node
 
@@ -82,7 +82,7 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 ## 101. rotating your wallet address
 
-donations are the token of appreciation for volunteer work 🖤. 
+donations are the token of appreciation for volunteer work 🖤.
 this week we are at:
 
 ```
@@ -96,4 +96,4 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 all the links about crypto that didn't make to the previous sections...
 
-* [weusecoins.com/](https://www.weusecoins.com/)
+* [weusecoins.com](https://www.weusecoins.com/)
