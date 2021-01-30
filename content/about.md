@@ -42,7 +42,7 @@ All right, losers, these are all the stuff you are going to have to learn if you
 ---
 ## 1. creating your wallet
 
-**[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/wallets/)**
+**[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 ### software wallets
 
 
