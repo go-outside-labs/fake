@@ -36,7 +36,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
 * **get GOXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
 * **HODL**: holding the cryptocurrency rather than selling.
-* **KYC coin**: "know your customer", all these platforms that ask for selfies and verification; you need to own your wallet.
+* **KYC coin**: "know your customer", all the platforms that ask for selfies and verification for coin trading.
 * **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
 * **NYKNYB**: not your keys? not your bitcoins; you need to own your wallet.
 * **stacking sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
