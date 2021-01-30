@@ -92,6 +92,8 @@ Start with them and then move to a hardware wallet:
 
 - [electrum](https://electrum.org/#home)
 - [samourai wallet](https://samouraiwallet.com/)
+
+
 ### hardware wallets
 
 * [ledger](https://shop.ledger.com).
