@@ -19,7 +19,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ---
 ## 0. basics you need to know
 
-**✨ all right, losers, these are all the stuff you will have to learn if you desire to make a living in the future ✨**
+**✨ these are some stuff that will help you navigate the years to come ✨**
 
 ### what bitcoin is
 
