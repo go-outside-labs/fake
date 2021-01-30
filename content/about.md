@@ -60,6 +60,16 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 - **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
+
+### how do you buy coins?
+
+* consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
+* if buying from big corps:
+    * robinhood is a NO NO. Do not leave your coins there. No option to withdraw to your wallet.
+    * coinbase let you can use get lower fees when paying and then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
+    * gemini and binance.us are all right in the US, kraken is all right in Europe. Withdraw to your wallet.
+    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying, step 2 is withdrawal to your wallet.
+
 ### how to spend coins?
 
 * [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
