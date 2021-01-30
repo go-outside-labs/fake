@@ -29,20 +29,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * open-source: nobody owns or controls it, and everyone can take part.
 * the biggest revolution on money in the last thousands of year.
 
-### dialects and concepts
 
-* **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
-* **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
-* **faketoshi**: everyone claiming they are Satoshi Nakamoto.
-* **get GOXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
-* **HODL**: holding the cryptocurrency rather than selling.
-* **KYC coin**: "know your customer", all the platforms that ask for selfies and verification for coin trading.
-* **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
-* **NYKNYB**: not your keys? not your bitcoins; you need to own your wallet.
-* **stacking sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
-* **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
-* **shitcoins**: an altcoin that isn't worth anything atm.
-* **💎 hands**: HODL.
 
 ### bitcoins + altcoins + shitcoins
 
@@ -61,7 +48,20 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 - **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**
 .
 
+### dialects and concepts
 
+* **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
+* **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
+* **faketoshi**: everyone claiming they are Satoshi Nakamoto.
+* **get GOXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
+* **HODL**: holding the cryptocurrency rather than selling.
+* **KYC coin**: "know your customer", all the platforms that ask for selfies and verification for coin trading.
+* **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
+* **NYKNYB**: not your keys? not your bitcoins; you need to own your wallet.
+* **stacking sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
+* **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
+* **shitcoins**: an altcoin that isn't worth anything atm.
+* **💎 hands**: HODL.
 
 ---
 ## 1. creating your wallet
