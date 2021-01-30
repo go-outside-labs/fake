@@ -8,9 +8,9 @@ date = "2021-01-28"
 <img src="/img/pc.png" alt="quantum computer"  width="300"/>
 
 
-"free as free 🍺" project helping the revolution
+**"free as free 🍺" project helping the revolution**
 
-by <a href="https://keybase.io/bt3gl">bt3</a></b>
+by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 </center>
 
@@ -21,19 +21,19 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 All right, losers, these are all the stuff you will have to learn if you desire to live in the future.
 
-### History of cryptocurrencies
+### history of cryptocurrencies
 
 - **[CHECK MY ARTICLES ON ALL THE SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
-### how to spend coins? 
-* [buy 🍕 and fuds with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
+### how to spend coins?
+* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
 * [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
 * [crypto merchants and ATMs](https://coinmap.org/)
 
 ### dialects and concepts
 
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
-* **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
+* **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
 * **HODL**: holding the cryptocurrency rather than selling.
 * **NYKNYB**: not your keys? not your bitcoins ("set your own wallet").
@@ -51,6 +51,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ## 1. creating your wallet
 
 - **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
+  
 ### software wallets
 
 
@@ -93,6 +94,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ## 101. rotating your wallet address
 
+### donations
 donations are the token of appreciation for volunteer work 🖤.
 this week we are at:
 
@@ -105,6 +107,6 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ## 110. stacking references
 
-all the links about crypto that didn't make to the previous sections...
+(all the links that didn't make it to the previous sections)
 
 * [weusecoins.com](https://www.weusecoins.com/)
