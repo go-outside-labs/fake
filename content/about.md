@@ -39,6 +39,15 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 ---
 # 1. Creating your Wallet
 
+**[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/wallets/)**
+## Software wallets
+
+
+## Hardware wallets
+
+* [Ledger](https://shop.ledger.com).
+* [Trezor](https://trezor.io/).
+* [Shapeshift](https://shapeshift.com/keepkey).
 
 ---
 # 10. Buying crypto coins
