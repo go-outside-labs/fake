@@ -148,3 +148,12 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 * [the bitcoin knowledge](https://www.bitcoin.kn/).
 * [let's talk bitcoin](https://letstalkbitcoin.com/).
+
+
+### documentaries
+
+- [Ulterior States](http://www.iamsatoshi.com/)
+- [Evolution of Bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs)
+- [The Bitcoin Phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
+- [Magic Money: The Bitcoin Revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs)
+- [Bitcoin: Beyond The Bubble](https://www.youtube.com/watch?v=LszOt51OjXU)
