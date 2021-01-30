@@ -17,70 +17,70 @@ by <a href="https://keybase.io/bt3gl">bt3</a></b>
 
 
 ---
-# 0. Basics you need to know
+## 0. basics you need to know
 
-## How to spend coins? (but you should HODL tho)
-* [Buy 🍕 and other foods with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
-* [Stores that accept bitcoin: spendabit.co](https://spendabit.co/)
-* [Crypto merchants and ATMs](https://coinmap.org/)
+### how to spend coins? (but you should HODL tho)
+* [buy 🍕 and fuds with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
+* [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
+* [crypto merchants and ATMs](https://coinmap.org/)
 
-## Dialects and concepts
+### dialects and concepts
 
-* **Altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
-* **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have. The advice is "take a deep breath and HODL".
-* **Faketoshi**: everyone claiming they are Satoshi Nakamoto.
-* **HODL**: holding the cryptocurrency rather than selling.
-* **NYKNYB**: Not your keys? Not your Bitcoins . The advice is "set your own wallet".
+* **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
+* **FUD**: short for "fear, uncertainty and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
+* **faketoshi**: everyone claiming they are Satoshi Nakamoto.
+* **hODL**: holding the cryptocurrency rather than selling.
+* **NYKNYB**: not your keys? not your bitcoins ("set your own wallet").
 * **Mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
 * **Stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
 * **Sats**: short for satoshis, the smallest unit of bitcoin (BTC).
 * **Shitcoins**:  an altcoin that isn't worth anything atm.
 
 ---
-# 1. Creating your Wallet
+## 1. creating your wallet
 
 **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/wallets/)**
-## Software wallets
+### Software wallets
 
 
-## Hardware wallets
+### hardware wallets
 
 * [Ledger](https://shop.ledger.com).
 * [Trezor](https://trezor.io/).
 * [Shapeshift](https://shapeshift.com/keepkey).
 
 ---
-# 10. Buying crypto coins
+## 10. buying crypto coins
 
-## Find a Bitcoin exchange
+### find an exchange
 
 * [List of cheapest exchanges](https://cryptorationale.com/).
 
-## Transfer the bitcoins to your wallet
+### transfer the coins to your wallet
 
 ----
 
-# 11. Why cryptocurrencies are going to guide the revolution
+## 11. why cryptocurrencies are going to guide the revolution
 
 
 
 ---
-# 100. Becoming a cypherpunk
+## 100. becoming a cypherpunk
 
-## Write code
+### write code
 
-* [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues)
+* [Work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues)
 * [browse bitcoin projects](http://www.bitcoinprojects.net/)
 
-## Create your own node
+### create your own node
 
-## Understand mining
+### understand mining
 
 
 
 ---
 
-# 101. Rotating your wallet address
+## 101. rotating your wallet address
 
 Donation are the token of appreciation for volunteer work. This week we are at:
 
@@ -91,6 +91,8 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ---
 
-# 110. Stacking references
+## 110. stacking references
+
+all the links about crypto that didn't make to the previous sections...
 
 * [weusecoins.com/](https://www.weusecoins.com/)
