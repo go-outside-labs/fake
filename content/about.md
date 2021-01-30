@@ -26,9 +26,12 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 - **[CHECK MY ARTICLES ON ALL THE SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
 
 ### how to spend coins?
+
 * [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/)
 * [stores that accept bitcoin: spendabit.co](https://spendabit.co/)
 * [crypto merchants and ATMs](https://coinmap.org/)
+
+- **[CHECK MY ARTICLES ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
 
 ### dialects and concepts
 
@@ -46,12 +49,21 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ### bitcoins + alcoins + shitcoins
 
 - **[CHECK MY ARTICLES ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
+- **[CHECK MY ARTICLES ON BITCOIN CASH](https://dreamers.cash/post/6/)**
+- **[CHECK MY ARTICLES ON ETHEREUM](https://dreamers.cash/post/5/)**
+
+### what's the blockchain
+
+- **[CHECK MY ARTICLES ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**
+- **[CHECK MY ARTICLES ON SMART CONTRACTS](https://dreamers.cash/post/9/)**
+
+
 
 ---
 ## 1. creating your wallet
 
 - **[CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
-  
+
 ### software wallets
 
 
@@ -60,6 +72,10 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * [ledger](https://shop.ledger.com).
 * [trezor](https://trezor.io/).
 * [shapeshift](https://shapeshift.com/keepkey).
+
+### everything privacy
+
+- **[CHECK MY ARTICLES ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**
 
 ---
 ## 10. buying crypto coins
@@ -74,6 +90,8 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ## 11. why cryptocurrencies are going to guide the revolution
 
+- **[CHECK MY ARTICLES ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
+- **[CHECK MY ARTICLES ON NFTS](https://dreamers.cash/post/7/)**
 
 
 ---
@@ -83,11 +101,15 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 * [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues).
 * [browse bitcoin projects](http://www.bitcoinprojects.net/).
+* [bitcoin stackexchange](https://bitcoin.stackexchange.com).
 
 ### create your own node
 
+- **[CHECK MY ARTICLES ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**
+
 ### understand mining
 
+- **[CHECK MY ARTICLES ON MINING](https://dreamers.cash/post/10/)**
 
 
 ---
@@ -109,4 +131,12 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 (all the links that didn't make it to the previous sections)
 
+### general stuff
+
 * [weusecoins.com](https://www.weusecoins.com/)
+
+
+### podcasts
+
+* [the bitcoin knowledge](https://www.bitcoin.kn/).
+* [let's talk bitcoin](https://letstalkbitcoin.com/).
