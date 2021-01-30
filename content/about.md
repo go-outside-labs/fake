@@ -1,7 +1,6 @@
 +++
 title = "the revolution will be decentralized"
 date = "2021-01-28"
-tags = ['about', 'revolution']
 +++
 
 <center>
