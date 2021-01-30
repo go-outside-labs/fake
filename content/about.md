@@ -64,7 +64,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ### how to buy coins?
 
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
-* if buying from big corps:
+* if buying from third parties:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
     * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
     * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
@@ -82,7 +82,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ---
 ## 1. creating your wallet
 
-- TL;DR you could start with [samourai wallet](https://samouraiwallet.com/) or [electrum](https://electrum.org/#home) and the move to a hardware wallet.
+- TL;DR you need a cold wallet, you need to own your keys. For beginners, you could start with [samourai wallet](https://samouraiwallet.com/) or [electrum](https://electrum.org/#home) and the move to a hardware wallet.
 - **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 
 ### software wallets
