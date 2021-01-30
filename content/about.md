@@ -34,7 +34,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
 * **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
-* **get GOAXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
+* **get GOXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
 * **HODL**: holding the cryptocurrency rather than selling.
 * **KYC coin**: "know your customer", all these platforms that ask for selfies and verification; you need to own your wallet.
 * **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
@@ -65,7 +65,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from big corps:
-    * robinhood is a NO NO. Do not leave your coins there. No option to withdraw to your wallet.
+    * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
     * coinbase gives you lower fees when paying for pro. You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
     * gemini and binance.us are all right in the US, kraken is all right in Europe. Withdraw to your wallet.
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
