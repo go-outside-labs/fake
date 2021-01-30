@@ -29,27 +29,19 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 * open-source: nobody owns or control it and everyone can take part.
 * the biggest revolution on money in the last thousands of year.
 
-
-### how to spend coins?
-
-* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
-* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
-* [crypto merchants and ATMs](https://coinmap.org/).
-* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
-
-
 ### dialects and concepts
 
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
 * **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
 * **HODL**: holding the cryptocurrency rather than selling.
+* **KYC coin**: "know your customer", all these platforms that ask for selfies and verification. You need to own your wallet
+* **mooning** or **"to the moon 🚀"**: when kids get excited with crypto values rising.
 * **NYKNYB**: not your keys? not your bitcoins ("set your own wallet").
-* **mooning** or **"to the moon 🚀"**: when kids get excited with the crypto values rising.
-* **stacking Sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
+* **stacking sats**: the act of regularly accumulating bitcoin, by buying, earning, or mining.
 * **sats**: short for satoshis, the smallest unit of bitcoin (BTC).
-* **shitcoins**:  an altcoin that isn't worth anything atm.
-* **💎 hands**:  HODL.
+* **shitcoins**: an altcoin that isn't worth anything atm.
+* **💎 hands**: HODL.
 
 ### bitcoins + altcoins + shitcoins
 
@@ -66,6 +58,13 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ### history of cryptocurrencies
 
 - **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/2/)**
+
+### how to spend coins?
+
+* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
+* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
+* [crypto merchants and ATMs](https://coinmap.org/).
+* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
 
 
 ---
@@ -153,8 +152,8 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ### documentaries
 
-- [Ulterior States](http://www.iamsatoshi.com/)
-- [Evolution of Bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs)
-- [The Bitcoin Phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
-- [Magic Money: The Bitcoin Revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs)
-- [Bitcoin: Beyond The Bubble](https://www.youtube.com/watch?v=LszOt51OjXU)
+- [ulterior states](http://www.iamsatoshi.com/)
+- [evolution of bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs)
+- [the bitcoin phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
+- [magic money: the bitcoin revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs)
+- [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU)
