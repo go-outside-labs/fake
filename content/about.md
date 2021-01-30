@@ -19,7 +19,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ---
 ## 0. basics you need to know
 
-All right, losers, these are all the stuff you will have to learn if you desire to live in the future.
+all right, losers, these are all the stuff you will have to learn if you desire to live in the future.
 
 ### what bitcoin is
 
@@ -46,35 +46,34 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### bitcoins + altcoins + shitcoins
 
-- **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**
-- **[CHECK MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**
-- **[CHECK MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**
+- **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
+- **[CHECK MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
+- **[CHECK MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
 
 ### what's the blockchain
 
-- **[CHECK MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**
-- **[CHECK MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**
+- **[CHECK MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
+- **[CHECK MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
 
 
 ### history of cryptocurrencies
 
 - **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**
-
+.
 
 
 
 ---
 ## 1. creating your wallet
 
-- TL;DR you need a cold wallet, you need to own your keys.
-- **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
+- tl;dr you need a cold wallet, you need to own your keys.
+- **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
 
 ### software wallets
 
-Start with them and then move to a hardware wallet:
-
-- [electrum](https://electrum.org/#home)
-- [samourai wallet](https://samouraiwallet.com/)
+* start with them and then move to a hardware wallet:
+  * [electrum](https://electrum.org/#home).
+  * [samourai wallet](https://samouraiwallet.com/).
 
 
 ### hardware wallets
@@ -85,7 +84,7 @@ Start with them and then move to a hardware wallet:
 
 ### everything privacy
 
-- **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**
+- **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
 
 ---
 ## 10. buying coins
@@ -112,9 +111,9 @@ Start with them and then move to a hardware wallet:
 
 ## 100. why cryptocurrencies are going to guide the revolution
 
-- **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**
-- **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**
-- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**
+- **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
+- **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
 
 ---
 ## 101. becoming a cypherpunk
@@ -164,7 +163,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ### general stuff
 
-* [weusecoins.com](https://www.weusecoins.com/)
+* [weusecoins.com](https://www.weusecoins.com/).
 
 
 ### podcasts
@@ -175,8 +174,8 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ### documentaries
 
-- [ulterior states](http://www.iamsatoshi.com/)
-- [evolution of bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs)
-- [the bitcoin phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
-- [magic money: the bitcoin revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs)
-- [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU)
+- [ulterior states](http://www.iamsatoshi.com/).
+- [evolution of bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs).
+- [the bitcoin phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4).
+- [magic money: the bitcoin revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs).
+- [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU).
