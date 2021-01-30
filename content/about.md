@@ -63,8 +63,6 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 
 ### how to buy coins?
 
-- **[CHECK MY REVIEW ON BISQ AND HOW TO BUY CRYPTO THE RIGHT WAY](https://dreamers.cash/post/2/)**
-
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from big corps:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
@@ -72,6 +70,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
     * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
+- **[CHECK MY REVIEW ON BISQ AND HOW TO BUY CRYPTO THE RIGHT WAY](https://dreamers.cash/post/2/)**
 ### how to spend coins?
 
 * [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
