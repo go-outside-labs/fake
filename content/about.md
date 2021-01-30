@@ -71,6 +71,7 @@ All right, losers, these are all the stuff you will have to learn if you desire 
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
 - **[CHECK MY REVIEW ON BISQ AND HOW TO BUY CRYPTO THE RIGHT WAY](https://dreamers.cash/post/2/)**
+
 ### how to spend coins?
 
 * [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
@@ -82,12 +83,15 @@ All right, losers, these are all the stuff you will have to learn if you desire 
 ---
 ## 1. creating your wallet
 
-- TL;DR you need a cold wallet, you need to own your keys. For beginners, you could start with [samourai wallet](https://samouraiwallet.com/) or [electrum](https://electrum.org/#home) and the move to a hardware wallet.
+- TL;DR you need a cold wallet, you need to own your keys.
 - **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**
 
 ### software wallets
 
+Start with them and then move to a hardware wallet:
 
+- [electrum](https://electrum.org/#home)
+- [samourai wallet](https://samouraiwallet.com/)
 ### hardware wallets
 
 * [ledger](https://shop.ledger.com).
