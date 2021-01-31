@@ -144,6 +144,8 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [coindesk](https://www.coindesk.com/).
 * [coinjornal](https://coinjournal.net/).
 * [bitmex](https://blog.bitmex.com/).
+* [bitcoinreserve](https://journal.bitcoinreserve.com/).
+* [citadel](https://www.citadel21.com/).
 
 ### channels
 
