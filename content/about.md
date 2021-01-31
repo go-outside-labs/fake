@@ -19,7 +19,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ---
 ## 0. basics you need to know
 
-**✨ here are some stuff that will help you navigate the years to come ✨**
+**✨ some info that will help you navigate the years to come ✨**
 
 ### what bitcoin is
 
