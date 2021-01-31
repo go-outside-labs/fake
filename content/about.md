@@ -132,17 +132,33 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 - **[CHECK MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
 
 
-### obvious channels you should join
+---
+
+## 110. getting the news
+
+
+### news
+
+* [bitcoinops](https://bitcoinops.org).
+* [btctimes](https://www.btctimes.com/).
+* [coindesk](https://www.coindesk.com/).
+* [coinjornal](https://coinjournal.net/).
+* [bitmex](https://blog.bitmex.com/).
+
+### channels
 
 
 - **[t/samourai wallet](https://t.me/SamouraiWallet)**.
 - **[t/bitcoin](https://t.me/Bitcoin)**.
+- **[t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity)**.
+- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**/
 - **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
+
 
 
 ---
 
-## 110. rotating your wallet address
+## 111. rotating your wallet address
 
 ### donations
 donations are the token of appreciation for volunteer work 🖤.
@@ -156,7 +172,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ---
 
-## 111. stacking references
+## 1000. stacking references
 
 (all the links that didn't make it to the previous sections)
 
