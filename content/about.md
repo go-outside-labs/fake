@@ -98,7 +98,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### earning
 
-* you can earn cyrptocurrencies by supporting the process of verifying transactions (mining).
+* you can earn cryptocurrencies by supporting the process of verifying transactions (mining). There are lots of big players in this game now, and you will hardly make any money setting your mining box at this point (probably lose money with utility expenses).
 
 
 ----
