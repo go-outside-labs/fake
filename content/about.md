@@ -85,15 +85,21 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 - **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
 
 ---
-## 10. buying coins
+## 10. getting coins
 
 
+### buying
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
-* if buying from third parties:
+* if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
     * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
     * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
+
+### earning
+
+* you can earn cyrptocurrencies by supporting the process of verifying transactions (mining).
+
 
 ----
 
@@ -184,6 +190,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [what bitcoin did](https://www.whatbitcoindid.com/resources).
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
+* [bitcoin myths](https://en.bitcoin.it/wiki/Myths).
 
 ### art
 
