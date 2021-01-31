@@ -185,6 +185,19 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 
+### art
+
+* [johnnydollar](https://johnnydollar.biz/).
+* [yonat vaks](https://www.yonatvaks.com/).
+* [josio.io](https://josie.io/).
+* [alotta money](https://alottamoney.com/).
+* [hodlr.rocks](https://hodlr.rocks/).
+* [kialara](https://kialara.com/)
+* [21ism](https://21ism.com/).
+* [21hodl](https://www.21hodl.com/).
+* [bitpaint](https://bitpaint.club/).
+* [cryptoart](https://cryptoart.com/).
+* [cryptograffiti](https://cryptograffiti.com/).
 
 ### podcasts
 
