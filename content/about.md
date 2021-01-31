@@ -152,7 +152,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 - **[t/samourai wallet](https://t.me/SamouraiWallet)**.
 - **[t/bitcoin](https://t.me/Bitcoin)**.
 - **[t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity)**.
-- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**/
+- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**.
 - **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
 
 
@@ -181,7 +181,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 * [bitcoin.org](https://bitcoin.org/).
 * [james lopp](https://www.lopp.net/bitcoin-information.html).
-* [what bitcoin did](https://www.whatbitcoindid.com/resources.)
+* [what bitcoin did](https://www.whatbitcoindid.com/resources).
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 
