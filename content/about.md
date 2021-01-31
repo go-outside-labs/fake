@@ -44,8 +44,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### history of cryptocurrencies
 
-- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**
-.
+- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
 
 ### dialects and concepts
 
