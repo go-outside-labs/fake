@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "dreamers.cash"
 
 author = "bt3"
-copyright = "first they ignore us, then they laugh at us, then they fight us, then we win 🪐 cyberfuture 2021 "
+copyright = "🪐 cyberfuture 2021 "
 paginate = 15
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
