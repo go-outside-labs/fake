@@ -1,5 +1,5 @@
 +++
-title = "the revolution will be decentralized"
+title = "The revolution will be decentralized"
 date = "2021-01-28"
 +++
 
