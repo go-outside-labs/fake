@@ -8,7 +8,7 @@ date = "2021-01-28"
 <img src="/img/pc.png" alt="quantum computer"  width="300"/>
 
 
-**"free as free 🍺" project helping the revolution**
+**"Free As Free 🍺" project helping the revolution**
 
 by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
@@ -17,11 +17,11 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 
 ---
-## 0. basics you need to know
+## 0. Basics you need to know
 
-**✨ some info that will help you navigate the years to come ✨**
+**✨ Sme info that will help you navigate the years to come ✨**
 
-### what bitcoin is
+### What bitcoin is
 
 * the first successful implementation of a distributed crypto-currency, described in part in 1998 by Wei Dai on the cypherpunks mailing list.
 * designed around the idea of using cryptography to control the creation and transfer of money, rather than relying on central authorities.
@@ -30,23 +30,23 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * the biggest revolution on money in the last thousands of year.
 
 
-### bitcoins + altcoins + shitcoins
+### Bitcoins + altcoins + shitcoins
 
-- **[CHECK MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
-- **[CHECK MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
-- **[CHECK MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
+- **[MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
+- **[MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
+- **[MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
 
-### what's the blockchain
+### What's the blockchain
 
-- **[CHECK MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
-- **[CHECK MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
+- **[MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
+- **[MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
 
 
-### history of cryptocurrencies
+### History of cryptocurrencies
 
-- **[CHECK MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
+- **[MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
 
-### dialects and concepts
+### Dialects and concepts
 
 * **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
 * **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
@@ -62,33 +62,32 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * **💎 hands**: HODL.
 
 ---
-## 1. creating your wallet
+## 1. Creating your wallet
 
 - tl;dr you need a cold wallet, you need to own your keys.
-- **[FOR MORE OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
+- **[OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
 
-### software wallets
+### Software wallets
 
 * start with them and then move to a hardware wallet:
   * [electrum](https://electrum.org/#home).
   * [samourai wallet](https://samouraiwallet.com/).
 
 
-### hardware wallets
+### Hardware wallets
 
 * [ledger](https://shop.ledger.com).
 * [trezor](https://trezor.io/).
 * [shapeshift](https://shapeshift.com/keepkey).
 
-### everything privacy
+### Everything privacy
 
-- **[CHECK MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
+- **[MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
 
 ---
-## 10. getting coins
+## 10. Getting coins
 
-
-### buying
+### Buying
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
@@ -96,14 +95,14 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
     * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
-### earning
+### Earning
 
 * you can earn cryptocurrencies by supporting the process of verifying transactions (mining). There are lots of big players in this game now, and you will hardly make any money setting your mining box at this point (probably lose money with utility expenses).
 
 
 ----
 
-## 11. spending coins
+## 11. Spending coins
 
 * [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
 * [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
@@ -113,36 +112,36 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 100. why cryptocurrencies are going to guide the revolution
+## 100. Why cryptocurrencies are going to guide the revolution
 
-- **[CHECK MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
-- **[CHECK MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
-- **[CHECK MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
+- **[MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
+- **[MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+- **[MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
 
 ---
-## 101. becoming a cypherpunk
+## 101. Becoming a cypherpunk
 
-### write code
+### Write code
 
 * [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues).
 * [browse bitcoin projects](http://www.bitcoinprojects.net/).
 * [bitcoin stackexchange](https://bitcoin.stackexchange.com).
 
-### create your own node
+### Create your own node
 
-- **[CHECK MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
+- **[MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
 
-### understand mining
+### Understand mining
 
-- **[CHECK MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
+- **[MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
 
 
 ---
 
-## 110. getting the news
+## 110. Getting the news
 
 
-### news
+### News
 
 * [bitcoinops](https://bitcoinops.org).
 * [btctimes](https://www.btctimes.com/).
@@ -152,7 +151,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [bitcoinreserve](https://journal.bitcoinreserve.com/).
 * [citadel](https://www.citadel21.com/).
 
-### channels
+### Channels
 
 
 - **[t/samourai wallet](https://t.me/SamouraiWallet)**.
@@ -165,11 +164,11 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 111. rotating your wallet address
+## 111. Rotating your wallet address
 
-### donations
-donations are the token of appreciation for volunteer work 🖤.
-this week we are at:
+### Donations
+
+Donations are the token of appreciation for volunteer work 🖤. This week we are at:
 
 ```
 bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
@@ -179,11 +178,11 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ---
 
-## 1000. stacking references
+## 1000. Stacking references
 
 (all the links that didn't make it to the previous sections)
 
-### general refs
+### General refs
 
 * [bitcoin.org](https://bitcoin.org/).
 * [james lopp](https://www.lopp.net/bitcoin-information.html).
@@ -192,7 +191,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [weusecoins.com](https://www.weusecoins.com/).
 * [bitcoin myths](https://en.bitcoin.it/wiki/Myths).
 
-### art
+### Art
 
 * [johnnydollar](https://johnnydollar.biz/).
 * [yonat vaks](https://www.yonatvaks.com/).
@@ -206,13 +205,13 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [cryptoart](https://cryptoart.com/).
 * [cryptograffiti](https://cryptograffiti.com/).
 
-### podcasts
+### Podcasts
 
 * [the bitcoin knowledge](https://www.bitcoin.kn/).
 * [let's talk bitcoin](https://letstalkbitcoin.com/).
 
 
-### documentaries
+### Documentaries
 
 - [ulterior states](http://www.iamsatoshi.com/).
 - [evolution of bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs).
