@@ -91,7 +91,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
 * if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
-    * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet. Still not the best option, coinbase has had a lot of problems over the years.
+    * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet.
     * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
     * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
 
