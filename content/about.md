@@ -89,6 +89,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Buying
 * consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
+    * peer-to-peer marketplaces like [LocalBitcoins](https://localbitcoins.com/) allow you to purchase BTC directly from a seller (be at lookout for scammers).
 * if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
     * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet.
