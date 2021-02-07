@@ -158,7 +158,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 - **[MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
 
-### Understand mining
+### Understand mining and mining pools
 
 - **[MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
 
