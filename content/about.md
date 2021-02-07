@@ -88,7 +88,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ## 10. Getting coins
 
 ### Buying
-* consider buying local, joining a swap group, or getting onto [BISQ](https://bisq.network/).
+* consider buying on DEXs or getting onto [BISQ](https://bisq.network/).
     * peer-to-peer marketplaces like [LocalBitcoins](https://localbitcoins.com/) allow you to purchase BTC directly from a seller (be at lookout for scammers).
 * if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
@@ -139,7 +139,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 110. Swaps and trading
+## 110. Exchanges
 
 * [saturn.network](https://www.saturn.network).
 * [1inch](https://1inch.exchange/#/).
