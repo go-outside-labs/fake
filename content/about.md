@@ -74,6 +74,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
   * [samourai wallet](https://samouraiwallet.com/).
   * [bitcoin armory](https://www.bitcoinarmory.com/).
   * [exodus](https://www.exodus.io/).
+  * [atomic wallet](https://atomicwallet.io/).
 
 
 ### Hardware wallets
