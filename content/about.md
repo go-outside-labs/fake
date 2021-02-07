@@ -119,11 +119,15 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ## 100. Why cryptocurrencies are going to guide the revolution
 
 - **[MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
-- **[MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
 - **[MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
 
+
+## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
+
+- **[MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+
 ---
-## 101. Becoming a cypherpunk
+## 110. Becoming a cypherpunk
 
 ### Write code
 
@@ -142,7 +146,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 110. Exchanges
+## 111. Exchanges
 
 * [saturn.network](https://www.saturn.network).
 * [1inch](https://1inch.exchange/#/).
@@ -150,13 +154,13 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 111. Decentralized applications (DAPPS)
+## 1000. Decentralized applications (DAPPS)
 
 * [state of the dapps](https://www.stateofthedapps.com/).
 
 ---
 
-## 1000. Getting the news
+## 1001. Getting the news
 
 
 ### News
@@ -182,7 +186,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 1001. Rotating your wallet address
+## 1010. Rotating your wallet address
 
 ### Donations
 
@@ -196,7 +200,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ---
 
-## 1010. Stacking references
+## 1011. Stacking references
 
 (all the links that didn't make it to the previous sections)
 
