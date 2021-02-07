@@ -92,7 +92,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Buying
 * consider buying on DEXs or getting onto [BISQ](https://bisq.network/).
-    * peer-to-peer marketplaces like [LocalBitcoins](https://localbitcoins.com/) allow you to purchase BTC directly from a seller (be at lookout for scammers).
+    * peer-to-peer marketplaces like [LocalBitcoins](https://localbitcoins.com/) allow you to purchase BTC directly from a seller (be on the lookout for scammers).
 * if buying from online exchanges:
     * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
     * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet.
@@ -125,6 +125,22 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
 
 - **[MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+
+
+### Crypto art
+
+* [johnnydollar](https://johnnydollar.biz/).
+* [yonat vaks](https://www.yonatvaks.com/).
+* [josio.io](https://josie.io/).
+* [alotta money](https://alottamoney.com/).
+* [hodlr.rocks](https://hodlr.rocks/).
+* [kialara](https://kialara.com/)
+* [21ism](https://21ism.com/).
+* [21hodl](https://www.21hodl.com/).
+* [bitpaint](https://bitpaint.club/).
+* [cryptoart](https://cryptoart.com/).
+* [cryptograffiti](https://cryptograffiti.com/).
+
 
 ---
 ## 110. Becoming a cypherpunk
@@ -212,20 +228,6 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 * [bitcoin myths](https://en.bitcoin.it/wiki/Myths).
-
-### Art
-
-* [johnnydollar](https://johnnydollar.biz/).
-* [yonat vaks](https://www.yonatvaks.com/).
-* [josio.io](https://josie.io/).
-* [alotta money](https://alottamoney.com/).
-* [hodlr.rocks](https://hodlr.rocks/).
-* [kialara](https://kialara.com/)
-* [21ism](https://21ism.com/).
-* [21hodl](https://www.21hodl.com/).
-* [bitpaint](https://bitpaint.club/).
-* [cryptoart](https://cryptoart.com/).
-* [cryptograffiti](https://cryptograffiti.com/).
 
 ### Podcasts
 
