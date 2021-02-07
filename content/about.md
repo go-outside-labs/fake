@@ -129,6 +129,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Crypto art
 
+* [Nirvana VR](http://www.nirvana-vr.com/).
 * [johnnydollar](https://johnnydollar.biz/).
 * [yonat vaks](https://www.yonatvaks.com/).
 * [josio.io](https://josie.io/).
