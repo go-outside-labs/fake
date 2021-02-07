@@ -21,6 +21,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 **✨ Some info that will help you navigate the years to come ✨**
 
+
 ### What bitcoin is
 
 * the first successful implementation of a distributed crypto-currency, described in part in 1998 by Wei Dai on the cypherpunks mailing list.
@@ -28,6 +29,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased, and only 21 million bitcoins will ever exist.
 * open-source: nobody owns or controls it, and everyone can take part.
 * the biggest revolution on money in the last thousands of year.
+* both a store of value and a payments mechanism.
 
 
 ### Bitcoins + altcoins + shitcoins
