@@ -139,7 +139,14 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 110. Getting the news
+## 110. Swaps and trading
+
+* [saturn.network](https://www.saturn.network).
+
+
+---
+
+## 111. Getting the news
 
 
 ### News
@@ -165,7 +172,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ---
 
-## 111. Rotating your wallet address
+## 1000. Rotating your wallet address
 
 ### Donations
 
@@ -179,7 +186,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 
 ---
 
-## 1000. Stacking references
+## 1001. Stacking references
 
 (all the links that didn't make it to the previous sections)
 
