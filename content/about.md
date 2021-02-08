@@ -46,7 +46,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### History of cryptocurrencies
 
-- **[MY REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
+- **[REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
 
 ### Dialects and concepts
 
@@ -67,7 +67,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ## 1. Creating your wallet
 
 - tl;dr you need a cold wallet, you need to own your keys.
-- **[OPTIONS, HISTORY, DETAILS, CHECK MY ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
+- **[ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
 
 ### Software wallets
 
@@ -126,7 +126,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
 
-- **[MY ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+- **[ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
 
 
 ### Crypto art
