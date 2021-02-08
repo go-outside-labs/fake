@@ -34,14 +34,14 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Bitcoins + altcoins + shitcoins
 
-- **[MY ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
-- **[MY ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
-- **[MY ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
+- **[ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
+- **[ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
+- **[ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
 
 ### What's the blockchain
 
-- **[MY ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
-- **[MY ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
+- **[ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
+- **[ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
 
 
 ### History of cryptocurrencies
@@ -50,7 +50,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Dialects and concepts
 
-* **altcoins**: is an alternative cryptocurrency to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin).
+* **altcoins**: alternative cryptocurrencies to bitcoin (e.g., ethereum, Ripple's XRP (nope), and litecoin); aims to provide price stability, ensuring a stable value over time.
 * **FUD**: short for "fear, uncertainty, and doubt", like FOMO and all those anxieties we all have ("take a deep breath and HODL").
 * **faketoshi**: everyone claiming they are Satoshi Nakamoto.
 * **get GOXED**: leave your bitcoins floating somewhere else and you might never see them again; you need your own wallet.
@@ -87,7 +87,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Everything privacy
 
-- **[MY ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
+- **[ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
 
 ---
 ## 10. Getting coins
@@ -120,8 +120,8 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ## 100. Why cryptocurrencies are going to guide the revolution
 
-- **[MY ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
-- **[MY ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
+- **[ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
+- **[ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
 
 
 ## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
@@ -156,11 +156,11 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Create your own node
 
-- **[MY ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
+- **[ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
 
 ### Understand mining and mining pools
 
-- **[MY ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
+- **[ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
 
 
 ---
