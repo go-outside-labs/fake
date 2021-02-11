@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "dreamers.cash"
 
 author = "bt3"
-copyright = "🪐 2021 cyberfuture, by Innermost Limits LLC "
+copyright = "🪐 2021 cyberfuture by bt3"
 paginate = 15
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
