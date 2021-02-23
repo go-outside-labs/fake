@@ -134,7 +134,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [Nirvana VR](http://www.nirvana-vr.com/).
 * [johnnydollar](https://johnnydollar.biz/).
 * [yonat vaks](https://www.yonatvaks.com/).
-* [josio.io](https://josie.io/).
+* [josie.io](https://josie.io/).
 * [alotta money](https://alottamoney.com/).
 * [hodlr.rocks](https://hodlr.rocks/).
 * [kialara](https://kialara.com/)
