@@ -67,7 +67,8 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 ## 1. Creating your wallet
 
 - tl;dr you need a cold wallet, you need to own your keys.
-- **[ARTICLES ON WALLETS IN 2021](https://dreamers.cash/post/1/)**.
+- bookmark your crypto sites, don't type in.
+
 
 ### Software wallets
 
@@ -85,9 +86,6 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [trezor](https://trezor.io/).
 * [shapeshift](https://shapeshift.com/keepkey).
 
-### Everything privacy
-
-- **[ARTICLE ON PRIVACY AND ZCASH](https://dreamers.cash/post/8/)**.
 
 ---
 ## 10. Getting coins
