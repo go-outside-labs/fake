@@ -71,7 +71,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Rotate your wallet address...
 
-Donations are the token of appreciation for volunteer work 🖤. In the current timespace they we are at:
+Donations are love token of appreciation 🖤. In the current timespace we are at:
 
 ```
 ethereum: 0xE2152DB627D58b2867CC29060567BF3eeB41A3E4
