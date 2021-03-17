@@ -115,11 +115,11 @@ In the current timespace we are at **Ethereum Mainnet: 0xE2152DB627D58b2867CC290
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 * [bitcoin myths](https://en.bitcoin.it/wiki/Myths).
-* - **[t/samourai wallet](https://t.me/SamouraiWallet)**.
-- **[t/bitcoin](https://t.me/Bitcoin)**.
-- **[t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity)**.
-- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**.
-- **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
+* [t/samourai wallet](https://t.me/SamouraiWallet).
+- [t/bitcoin](https://t.me/Bitcoin).
+- [t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity).
+- [t/hodlhodlnews](https://telegram.me/hodlhodlnews).
+- [r/bitcoin](https://www.reddit.com/r/Bitcoin/).
 * [the bitcoin knowledge](https://www.bitcoin.kn/).
 * [let's talk bitcoin](https://letstalkbitcoin.com/).
 - [ulterior states](http://www.iamsatoshi.com/).
