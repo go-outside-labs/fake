@@ -53,13 +53,12 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Software wallets
 
-* start with them and then move to a hardware wallet:
-  * [electrum](https://electrum.org/#home).
-  * [samourai wallet](https://samouraiwallet.com/).
-  * [bitcoin armory](https://www.bitcoinarmory.com/).
-  * [exodus](https://www.exodus.io/).
-  * [atomic wallet](https://atomicwallet.io/).
-  * [Ethereum walets](https://ethereum.org/en/wallets/find-wallet/).
+* [electrum](https://electrum.org/#home).
+* [samourai wallet](https://samouraiwallet.com/).
+* [bitcoin armory](https://www.bitcoinarmory.com/).
+* [exodus](https://www.exodus.io/).
+* [atomic wallet](https://atomicwallet.io/).
+* [Ethereum walets](https://ethereum.org/en/wallets/find-wallet/).
 
 ### Hardware wallets
 
