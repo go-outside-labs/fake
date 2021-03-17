@@ -14,12 +14,9 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 </center>
 
+----
 
-
----
-## 0. Basics you need to know
-
-**✨ Some info that will help you navigate the years to come ✨**
+**✨ Some info that will help you navigate the future ✨**
 
 
 ### What bitcoin is
@@ -31,22 +28,6 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * the biggest revolution on money in the last thousands of year.
 * both a store of value and a payments mechanism.
 
-
-### Bitcoins + altcoins + shitcoins
-
-- **[ARTICLE ON ALL THE COINS IN 2021](https://dreamers.cash/post/3/)**.
-- **[ARTICLE ON BITCOIN CASH](https://dreamers.cash/post/6/)**.
-- **[ARTICLE ON ETHEREUM](https://dreamers.cash/post/5/)**.
-
-### What's the blockchain
-
-- **[ARTICLE ON THE BLOCKCHAIN](https://dreamers.cash/post/11/)**.
-- **[ARTICLE ON SMART CONTRACTS](https://dreamers.cash/post/9/)**.
-
-
-### History of cryptocurrencies
-
-- **[REVIEW ON SATOSHI NAKAMOTO'S SEMINAL PAPER](https://dreamers.cash/post/16/)**.
 
 ### Dialects and concepts
 
@@ -64,7 +45,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * **💎 hands**: HODL.
 
 ---
-## 1. Creating your wallet
+## Your wallets
 
 - tl;dr you need a cold wallet, you need to own your keys.
 - bookmark your crypto sites, don't type in.
@@ -87,47 +68,25 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [shapeshift](https://shapeshift.com/keepkey).
 
 
----
-## 10. Getting coins
-
-### Buying
-* consider buying on DEXs or getting onto [BISQ](https://bisq.network/).
-    * peer-to-peer marketplaces like [LocalBitcoins](https://localbitcoins.com/) allow you to purchase BTC directly from a seller (be on the lookout for scammers).
-* if buying from online exchanges:
-    * robinhood is a NO NO, it's a [custodial wallet](https://en.bitcoin.it/wiki/Storing_bitcoins#Bad_wallet_ideas) that does not allow withdrawal. Do not leave coins there.
-    * coinbase gives you lower fees when paying for pro (btw, they are the marketmaker). You can then withdraw to your wallet.
-    * gemini and binance.us are all right in the US, kraken is all right in Europe, check [this](https://cryptorationale.com/) if you are in Canada. Withdraw your sats to your wallet.
-    * cashApp is all right in the US, and it’s a 2 step process. Step 1 is buying; step 2 is withdrawal to your wallet.
-
-### Earning
-
-* you can earn cryptocurrencies by supporting the process of verifying transactions (mining). There are lots of big players in this game now, and you will hardly make any money setting your mining box at this point (probably lose money with utility expenses).
 
 
-----
+### Rotate your wallet address...
 
-## 11. Spending coins
+Donations are the token of appreciation for volunteer work 🖤. In the current timespace they we are at:
 
-* [buy 🍕 and stuff with your coins and all that: bitcoinwide.com](https://bitcoinwide.com/).
-* [stores that accept bitcoin: spendabit.co](https://spendabit.co/).
-* [crypto merchants and ATMs](https://coinmap.org/).
-* [buy gift cards with bitcoins](https://www.gyft.com/bitcoin/) and [here too](https://www.bitrefill.com/).
+```
+ethereum: 0xE2152DB627D58b2867CC29060567BF3eeB41A3E4
+```
 
 
 ---
 
-## 100. Why cryptocurrencies are going to guide the revolution
+## NFT are the most revolutionary concept for Arts since renaissance patronage
 
-- **[ARTICLE ON THE ALTERNATIVE INTERNET](https://dreamers.cash/post/13/)**.
-- **[ARTICLE ON CRYPTOCURRENCY DONATIONS](https://dreamers.cash/post/12/)**.
-
-
-## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
-
-- **[Dream3rs' Awesome NFT](https://github.com/dream3rs/awesome_NFTs)**.
+- **[Dream3rs' Awesome NFT repo](https://github.com/dream3rs/awesome_NFTs)**.
 
 
-### Crypto art
+### Some crypto art
 
 * [johnnydollar](https://johnnydollar.biz/).
 * [yonat vaks](https://www.yonatvaks.com/).
@@ -142,85 +101,12 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [cryptograffiti](https://cryptograffiti.com/).
 
 
----
-## 110. Becoming a cypherpunk
-
-### Write code
-
-* [work on bitcoin code base issues](https://github.com/bitcoin/bitcoin/issues).
-* [browse bitcoin projects](http://www.bitcoinprojects.net/).
-* [bitcoin stackexchange](https://bitcoin.stackexchange.com).
-
-### Create your own node
-
-- **[ARTICLE ON RUNNING YOUR OWN NODE](https://dreamers.cash/post/11/)**.
-
-### Understand mining and mining pools
-
-- **[ARTICLE ON MINING](https://dreamers.cash/post/10/)**.
-
 
 ---
 
-## 111. Exchanges
 
-* [saturn.network](https://www.saturn.network).
-* [1inch](https://1inch.exchange/#/).
+## Stacking references
 
-
----
-
-## 1000. Decentralized applications (DAPPS)
-
-* [state of the dapps](https://www.stateofthedapps.com/).
-
----
-
-## 1001. Getting the news
-
-
-### News
-
-* [bitcoinops](https://bitcoinops.org).
-* [btctimes](https://www.btctimes.com/).
-* [coindesk](https://www.coindesk.com/).
-* [coinjornal](https://coinjournal.net/).
-* [bitmex](https://blog.bitmex.com/).
-* [bitcoinreserve](https://journal.bitcoinreserve.com/).
-* [citadel](https://www.citadel21.com/).
-
-### Channels
-
-
-- **[t/samourai wallet](https://t.me/SamouraiWallet)**.
-- **[t/bitcoin](https://t.me/Bitcoin)**.
-- **[t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity)**.
-- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**.
-- **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
-
-
-
----
-
-## 1010. Rotating your wallet address
-
-### Donations
-
-Donations are the token of appreciation for volunteer work 🖤. In the current timespace they we are at:
-
-```
-bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
-ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
-```
-
-
----
-
-## 1011. Stacking references
-
-(all the links that didn't make it to the previous sections)
-
-### General refs
 
 * [bitcoin.org](https://bitcoin.org/).
 * [james lopp](https://www.lopp.net/bitcoin-information.html).
@@ -228,15 +114,13 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 * [bitcoiner guide](https://bitcoiner.guide/).
 * [weusecoins.com](https://www.weusecoins.com/).
 * [bitcoin myths](https://en.bitcoin.it/wiki/Myths).
-
-### Podcasts
-
+* - **[t/samourai wallet](https://t.me/SamouraiWallet)**.
+- **[t/bitcoin](https://t.me/Bitcoin)**.
+- **[t/BeInCryptoCommunity](https://t.me/BeInCryptoCommunity)**.
+- **[t/hodlhodlnews](https://telegram.me/hodlhodlnews)**.
+- **[r/bitcoin](https://www.reddit.com/r/Bitcoin/)**.
 * [the bitcoin knowledge](https://www.bitcoin.kn/).
 * [let's talk bitcoin](https://letstalkbitcoin.com/).
-
-
-### Documentaries
-
 - [ulterior states](http://www.iamsatoshi.com/).
 - [evolution of bitcoin](https://www.youtube.com/watch?v=HUpGHOLkoXs).
 - [the bitcoin phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4).
@@ -247,4 +131,4 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 ----------------------------------------------------------------
 -----------------
 -----
-#### ps: Art is whatever art wants to be ✨💎💾.
+#### *ps: art is whatever art wants to be ✨💎💾*
