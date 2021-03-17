@@ -18,6 +18,8 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 **✨ Some info that will help you navigate the future ✨**
 
+----
+
 
 ### What bitcoin is
 
@@ -28,6 +30,8 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * the biggest revolution on money in the last thousands of years.
 * both a store of value and a payments mechanism.
 
+
+----
 
 ### Dialects and concepts
 
@@ -45,13 +49,13 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * **💎 hands**: HODL.
 
 ---
-## Your wallets
+### Your wallets
 
 - tl;dr you need a cold wallet, you need to own your keys.
 - bookmark your crypto sites, don't type in.
 
 
-### Software wallets
+#### Software wallets
 
 * [electrum](https://electrum.org/#home).
 * [samourai wallet](https://samouraiwallet.com/).
@@ -60,7 +64,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [atomic wallet](https://atomicwallet.io/).
 * [Ethereum wallets](https://ethereum.org/en/wallets/find-wallet/).
 
-### Hardware wallets
+#### Hardware wallets
 
 * [ledger](https://shop.ledger.com).
 * [trezor](https://trezor.io/).
@@ -69,7 +73,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 
 
-### Rotate your wallet address...
+#### Rotate your wallet address...
 
 Donations are love token of appreciation 🖤. In the current timespace we are at:
 
