@@ -132,4 +132,12 @@ In the current timespace we are at **Ethereum Mainnet: 0xE2152DB627D58b2867CC290
 ----------------------------------------------------------------
 -----------------
 -----
+
+<center>
+
+<br><br>
 #### *ps: art is whatever art wants to be ✨💎💾*
+
+<br><br>
+
+</center>
