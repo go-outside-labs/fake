@@ -128,7 +128,7 @@ In the current timespace we are at **Ethereum Mainnet: 0xE2152DB627D58b2867CC290
 - [magic money: the bitcoin revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs).
 - [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU).
 
-
+<br><br><br>
 ----------------------------------------------------------------
 -----------------
 -----
