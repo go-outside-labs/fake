@@ -244,5 +244,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 - [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU).
 
 
-
-Ps: Art is whatever art wants to be ✨💎💾.
+----------------------------------------------------------------
+-----------------
+-----
+#### ps: Art is whatever art wants to be ✨💎💾.
