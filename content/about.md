@@ -9,14 +9,14 @@ date = "2021-01-01"
 
 
 **"Free As Free 🍺" project helping the revolution**
+<br>
+**✨ Some info that will help you navigate the future ✨**
 
-by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
+by <a href="https://keybase.io/bt3gl">bt3, PhD</a></br>
 
 </center>
 
-----
 
-**✨ Some info that will help you navigate the future ✨**
 
 ----
 
