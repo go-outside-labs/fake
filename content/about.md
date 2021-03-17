@@ -124,12 +124,11 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ## 101. NFT are the most revolutionary concept for Arts since renaissance patronage
 
-- **[ARTICLE ON NFTS](https://dreamers.cash/post/7/)**.
+- **[Dream3rs' Awesome NFT](https://github.com/dream3rs/awesome_NFTs)**.
 
 
 ### Crypto art
 
-* [Nirvana VR](http://www.nirvana-vr.com/).
 * [johnnydollar](https://johnnydollar.biz/).
 * [yonat vaks](https://www.yonatvaks.com/).
 * [josie.io](https://josie.io/).
@@ -207,7 +206,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 
 ### Donations
 
-Donations are the token of appreciation for volunteer work 🖤. This week we are at:
+Donations are the token of appreciation for volunteer work 🖤. In the current timespace they we are at:
 
 ```
 bitcoin: 3BzjUSgJXZ8BsBBbTgHYAKqntWtqgE7af5
@@ -243,3 +242,7 @@ ethereum: 0x3f083E5671049e182be2332EDA43b9E6681EAf02
 - [the bitcoin phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4).
 - [magic money: the bitcoin revolution](https://www.youtube.com/watch?v=PVo5wCSnmSs).
 - [bitcoin: beyond the bubble](https://www.youtube.com/watch?v=LszOt51OjXU).
+
+
+
+Ps: Art is whatever art wants to be ✨💎💾.
