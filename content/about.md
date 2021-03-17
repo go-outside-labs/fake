@@ -75,11 +75,9 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></br>
 
 #### Rotate your wallet address...
 
-Donations are love token of appreciation 🖤. In the current timespace we are at:
+Donations are love token of appreciation 🖤.
 
-```
-ethereum: 0xE2152DB627D58b2867CC29060567BF3eeB41A3E4
-```
+In the current timespace we are at **Ethereum Mainnet: 0xE2152DB627D58b2867CC29060567BF3eeB41A3E4**.
 
 
 ---
