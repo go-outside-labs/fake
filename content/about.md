@@ -84,7 +84,7 @@ In the current timespace we are at **Ethereum Mainnet: 0xE2152DB627D58b2867CC290
 
 ## NFT are the most revolutionary concept for Arts since renaissance patronage
 
-- **[Dream3rs' Awesome NFT repo](https://github.com/dream3rs/awesome_NFTs)**.
+- [Dream3rs' Awesome NFT repo](https://github.com/dream3rs/awesome_NFTs).
 
 
 ### Some crypto art
