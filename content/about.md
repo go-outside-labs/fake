@@ -25,7 +25,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * designed around the idea of using cryptography to control the creation and transfer of money, rather than relying on central authorities.
 * a money-like good: portable, durable, divisible, recognizable, fungible, scarce, and difficult to counterfeit. It cannot be printed or debased, and only 21 million bitcoins will ever exist.
 * open-source: nobody owns or controls it, and everyone can take part.
-* the biggest revolution on money in the last thousands of year.
+* the biggest revolution on money in the last thousands of years.
 * both a store of value and a payments mechanism.
 
 
@@ -58,7 +58,7 @@ by <a href="https://keybase.io/bt3gl">bt3, PhD</a></b>
 * [bitcoin armory](https://www.bitcoinarmory.com/).
 * [exodus](https://www.exodus.io/).
 * [atomic wallet](https://atomicwallet.io/).
-* [Ethereum walets](https://ethereum.org/en/wallets/find-wallet/).
+* [Ethereum wallets](https://ethereum.org/en/wallets/find-wallet/).
 
 ### Hardware wallets
 
